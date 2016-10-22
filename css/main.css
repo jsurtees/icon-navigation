@@ -2,11 +2,16 @@ html {
   font-family: "Abhaya Libre", serif;
 }
 
-header {
+.masthead {
   background-color: #423ca3;
 }
 
+.nav {
+  text-align: center;
+}
+
 .btn {
+  border: 6px;
   background-color: #15114c;
   border-color: #15114c;
 }
@@ -25,9 +30,5 @@ header {
   .nav {
     text-align: right;
   }
-
-}
-
-@media only screen and (min-width: 90em) {
 
 }
